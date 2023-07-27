@@ -1,5 +1,5 @@
 .background {
-    background: rgb(52, 166, 251);
+    background: rgb(104, 17, 14);
     table-layout: fixed;
     border-spacing: 0;
 }
@@ -10,7 +10,7 @@
     background: rgb(255, 100, 100);
 }
 .wall {
-    background: white;
+    background: black;
 }
 .actor  {
     position: absolute;
